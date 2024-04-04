@@ -1,0 +1,9 @@
+numpy
+pandas
+requests
+matplotlib
+scipy
+stats
+gunicorn
+ssl
+BlockingScheduler
